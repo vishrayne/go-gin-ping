@@ -1,8 +1,8 @@
-#go-gin-ping
+# go-gin-ping
 
 A simple web service written in golang using [gin](https://github.com/gin-gonic/gin) framework. [Dep](https://github.com/golang/dep) is used for dependancy management.
 
-## setup
+## Setup
 
 1. Clone this project
 2. Install dep
